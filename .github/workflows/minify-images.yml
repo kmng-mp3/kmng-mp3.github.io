@@ -1,0 +1,80 @@
+name: Minify images on push
+
+on:
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - 'assets/img/*.png'
+      - 'assets/img/*.jpg'
+      - 'assets/img/*.jpeg'
+      - 'assets/img/*.gif'
+      - 'assets/img/*.svg'
+      - 'assets/img/*.webp'
+
+permissions:
+  contents: write
+
+jobs:
+  minify:
+    if: contains(github.event.head_commit.message, '[skip ci]') == false
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install imagemin packages
+        run: |
+          npm i imagemin imagemin-mozjpeg imagemin-pngquant imagemin-gifsicle imagemin-svgo imagemin-webp
+
+      - name: Collect changed image files
+        id: diff
+        shell: bash
+        run: |
+          BEFORE="${{ github.event.before }}"
+          AFTER="${{ github.sha }}"
+          if [ "$BEFORE" = "0000000000000000000000000000000000000000" ] || [ -z "$BEFORE" ]; then
+            BEFORE=$(git rev-parse HEAD^ || echo "")
+          fi
+
+          if [ -n "$BEFORE" ]; then
+            git diff --name-only --diff-filter=AM "$BEFORE" "$AFTER" \
+              | grep -E '\.(png|jpg|jpeg|gif|svg|webp)$' || true
+          else
+            git ls-files | grep -E '\.(png|jpg|jpeg|gif|svg|webp)$' || true
+          fi > changed.txt
+
+          echo "changed files:"
+          cat changed.txt || true
+
+      - name: Minify changed images
+        if: success()
+        shell: bash
+        run: |
+          if [ -s changed.txt ]; then
+            xargs -a changed.txt node ./scripts/minify-changed.mjs
+          else
+            echo "No changed images."
+          fi
+
+      - name: Commit & push back
+        shell: bash
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add -A
+            git commit -m "chore: minify images [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi
