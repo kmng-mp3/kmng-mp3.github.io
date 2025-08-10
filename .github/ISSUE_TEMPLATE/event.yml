@@ -28,3 +28,9 @@ body:
       placeholder: "2019-12-31"
     validations:
       required: true
+
+  - type: input
+    id: location
+    attributes:
+      label: 場所
+      placeholder: "THE BOXX, 上海"
