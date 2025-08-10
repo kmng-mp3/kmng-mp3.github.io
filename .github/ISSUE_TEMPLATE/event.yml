@@ -43,15 +43,11 @@ body:
       label: 概要
       placeholder: "中国、上海にて年越しイベントにDJとして出演。"
 
-  - type: dropdown
+  - type: input
     id: media_type
     attributes:
       label: "メディア種別"
-      options: 
-        - x
-        - instagram
-        - image
-        - none
+      placeholder: "image / x / instagram / none のいずれか"
     validations:
       required: true
 
