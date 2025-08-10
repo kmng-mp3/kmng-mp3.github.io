@@ -17,6 +17,14 @@ jobs:
         with:
           node-version: '20'
 
+      - name: Verify files
+        run: |
+          pwd
+          git rev-parse --abbrev-ref HEAD
+          ls -la
+          ls -la scripts || true
+          test -f ./scripts/fetch_note.js || (echo "scripts/fetch_note.js not found" && exit 1)
+
       - name: Install deps
         run: |
           cd scripts
