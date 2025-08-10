@@ -13,7 +13,6 @@ body:
     validations:
       required: true
 
-body:
   - type: input
     id: title
     attributes:
