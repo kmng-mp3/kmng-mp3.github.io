@@ -48,9 +48,9 @@ body:
     attributes:
       label: メディア種別
       options:
-        - image
-        - x
-        - instagram
-        - none
+        - "image"
+        - "x"
+        - "instagram"
+        - "none"
     validations:
       required: true
