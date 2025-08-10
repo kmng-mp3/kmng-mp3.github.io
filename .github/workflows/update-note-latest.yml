@@ -1,3 +1,10 @@
+name: Update note latest
+
+on:
+  schedule:
+    - cron: '0 3 * * *' # 毎日昼12時に実行
+  workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
