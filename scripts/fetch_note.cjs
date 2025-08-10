@@ -1,11 +1,7 @@
 // 用途: NOTEのRSSから最新記事 {title, link, pubDate} を抽出し、/assets/data/note_latest.json に保存
-import fs from 'fs';
-import path from 'path';
-import { fileURLToPath } from 'url';
-import Parser from 'rss-parser';
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+const fs = require('fs');
+const path = require('path');
+const Parser = require('rss-parser');
 
 const RSS_URL = process.env.NOTE_RSS_URL || 'https://note.com/sakeme/m/m46cdca3b0d75/rss';
 const OUT_DIR = path.resolve(__dirname, '..', 'assets', 'data');
@@ -22,15 +18,15 @@ function toIso(d) {
     const feed = await parser.parseURL(RSS_URL);
     if (!feed?.items?.length) throw new Error('No items in feed');
 
-    // pubDate降順でソートして最新を取得
+    // pubDate降順で最新取得（noteは先頭が最新だが安全のため）
     const latest = [...feed.items].sort((a, b) =>
-      new Date(b.pubDate) - new Date(a.pubDate)
+      new Date(b.pubDate || 0) - new Date(a.pubDate || 0)
     )[0];
 
     const payload = {
-      title: latest.title?.trim() || '',
-      link: latest.link?.trim() || '',
-      pubDate: toIso(latest.pubDate || '')
+      title: (latest.title || '').trim(),
+      link: (latest.link || latest.guid || '').trim(),
+      pubDate: toIso(latest.isoDate || latest.pubDate || '')
     };
 
     fs.mkdirSync(OUT_DIR, { recursive: true });
@@ -39,7 +35,7 @@ function toIso(d) {
   } catch (err) {
     console.error('Failed to fetch/parse RSS:', err);
     fs.mkdirSync(OUT_DIR, { recursive: true });
-    fs.writeFileSync(OUT_FILE, JSON.stringify({ title:'', link:'', pubDate:'' }, null, 2), 'utf-8');
+    fs.writeFileSync(OUT_FILE, JSON.stringify({ title: '', link: '', pubDate: '' }, null, 2), 'utf-8');
     process.exitCode = 1;
   }
 })();
