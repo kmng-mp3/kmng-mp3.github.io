@@ -50,3 +50,9 @@ body:
       placeholder: "image / x / instagram / none のいずれか"
     validations:
       required: true
+
+  - type: input
+    id: media_src
+    attributes:
+      label: メディアURL/パス
+      placeholder: "image: /assets/img/xxx.jpg / x・instagram: 投稿URL"
