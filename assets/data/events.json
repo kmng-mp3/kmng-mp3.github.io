@@ -1,6 +1,19 @@
 [
   {
     "type": "appearance",
+    "title": "ZIPANGU the Party!!",
+    "date": "2025-08-22",
+    "location": "ZERO TOKYO",
+    "description": "甘口コレクティブ名義での出演。小林幸子氏出演。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/zipangu_sh/status/1945060776235974710/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
     "title": "AMAKUCHI PARTY vol.19",
     "date": "2025-07-26",
     "location": "阿佐ヶ谷Drift",
