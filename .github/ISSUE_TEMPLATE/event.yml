@@ -54,5 +54,5 @@ body:
   - type: input
     id: media_src
     attributes:
-      label: メディアURL/パス
+      label: メディアURLパス
       placeholder: "image: /assets/img/xxx.jpg / x・instagram: 投稿URL"
