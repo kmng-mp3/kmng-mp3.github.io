@@ -42,3 +42,15 @@ body:
     attributes:
       label: 概要
       placeholder: "中国、上海にて年越しイベントにDJとして出演。"
+
+  - type: dropdown
+    id: media_type
+    attributes:
+      label: メディア種別
+      options:
+        - image
+        - x
+        - instagram
+        - none
+    validations:
+      required: true
