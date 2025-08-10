@@ -125,17 +125,6 @@ footer {
     border: 0;
 }
 
-/* ダークモード */
-@media (prefers-color-scheme: dark) {
-    .card {
-        border-color: rgba(255, 255, 255, .16);
-    }
-
-    .card .meta {
-        color: #aaa;
-    }
-}
-
 /* ===== Events & Appearances ===== */
 .events-wrap {
     max-width: var(--max, 960px);
@@ -166,13 +155,13 @@ footer {
 }
 
 .event-card {
-  max-width: 100%;
-  box-sizing: border-box;
-  border: 1px solid #e5e7eb;
-  border-radius: 10px;
-  background: #fff;
-  padding: 16px;
-  box-shadow: 0 2px 4px rgba(0,0,0,.05);
+    max-width: 100%;
+    box-sizing: border-box;
+    border: 1px solid #e5e7eb;
+    border-radius: 10px;
+    background: #fff;
+    padding: 16px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .05);
 }
 
 .event-title {
@@ -191,10 +180,10 @@ footer {
 }
 
 .event-media img {
-  width: 100%;
-  height: auto;
-  display: block;
-  border-radius: 8px;
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
 }
 
 .event-caption {
@@ -204,12 +193,17 @@ footer {
 }
 
 /* 埋め込みの横はみ出し防止 */
-.x-embed, .instagram-embed { max-width: 100%; overflow: hidden; }
+.x-embed,
+.instagram-embed {
+    max-width: 100%;
+    overflow: hidden;
+}
+
 .x-embed iframe,
 .instagram-embed iframe {
-  width: 100% !important;
-  max-width: 100% !important;
-  min-width: 0 !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
 }
 
 .event-links {
@@ -225,94 +219,167 @@ footer {
 }
 
 .year-accordion details {
-  border: 1px solid #e5e7eb;
-  border-radius: 10px;
-  background: #fff;
-  margin-bottom: 16px;
-  overflow: hidden;
+    border: 1px solid #e5e7eb;
+    border-radius: 10px;
+    background: #fff;
+    margin-bottom: 16px;
+    overflow: hidden;
 }
+
 .year-accordion summary {
-  cursor: pointer;
-  user-select: none;
-  padding: 12px 14px;
-  font-weight: 600;
-  display: flex;
-  align-items: center;
-  gap: 8px;
+    cursor: pointer;
+    user-select: none;
+    padding: 12px 14px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 8px;
 }
-.year-accordion summary::-webkit-details-marker { display: none; }
+
+.year-accordion summary::-webkit-details-marker {
+    display: none;
+}
 
 .year-accordion .chev {
-  width: 0; height: 0; 
-  border-top: 6px solid transparent;
-  border-bottom: 6px solid transparent;
-  border-left: 8px solid #6b7280;
-  transition: transform .2s ease;
+    width: 0;
+    height: 0;
+    border-top: 6px solid transparent;
+    border-bottom: 6px solid transparent;
+    border-left: 8px solid #6b7280;
+    transition: transform .2s ease;
 }
+
 .year-accordion details[open] .chev {
-  transform: rotate(90deg);
+    transform: rotate(90deg);
 }
 
 .year-accordion .year-title {
-  flex: 1;
-  display: flex; 
-  justify-content: space-between;
-  align-items: baseline;
+    flex: 1;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
+
 .year-accordion .year-count {
-  color: #6b7280;
-  font-size: .9rem;
+    color: #6b7280;
+    font-size: .9rem;
 }
 
 .year-accordion .event-list,
 #hosted-list.event-list,
 #appearance-list.event-list {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, 100%);
-  justify-content: center;
-  gap: var(--gap, 20px);
-  padding: 1%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 100%);
+    justify-content: center;
+    gap: var(--gap, 20px);
+    padding: 1%;
 }
+
 @media (max-width: 360px) {
-  .year-accordion .event-list,
-  #hosted-list.event-list,
-  #appearance-list.event-list {
-    grid-template-columns: 1fr; /* 1列に */
-  }
-  .event-card { max-width: 100%; }
+
+    .year-accordion .event-list,
+    #hosted-list.event-list,
+    #appearance-list.event-list {
+        grid-template-columns: 1fr;
+        /* 1列に */
+    }
+
+    .event-card {
+        max-width: 100%;
+    }
 }
+
 @media (min-width: 768px) {
-  .year-accordion .event-list {
-    grid-template-columns: repeat(2, 1fr);
-  }
+    .year-accordion .event-list {
+        grid-template-columns: repeat(2, 1fr);
+    }
 }
 
 .year-close-wrap {
-  grid-column: 1 / -1;
-  display: flex;
-  justify-content: center;
-  margin-top: 8px;
+    grid-column: 1 / -1;
+    display: flex;
+    justify-content: center;
+    margin-top: 8px;
 }
 
 .year-close-icon {
-  background: none;
-  border: none;
-  cursor: pointer;
-  padding: 6px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 6px;
 }
 
 .year-close-icon:hover .up-chevron {
-  border-bottom-color: var(--link-color, #007bff);
+    border-bottom-color: var(--link-color, #007bff);
 }
 
 .up-chevron {
-  display: inline-block;
-  width: 0;
-  height: 0;
-  border-left: 8px solid transparent;
-  border-right: 8px solid transparent;
-  border-bottom: 8px solid #6b7280;
-  transition: border-bottom-color 0.2s ease;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-bottom: 8px solid #6b7280;
+    transition: border-bottom-color 0.2s ease;
 }
 
-.event-card { word-wrap: break-word; overflow-wrap: anywhere; }
+.event-card {
+    word-wrap: break-word;
+    overflow-wrap: anywhere;
+}
+
+/* ダークモード */
+@media (prefers-color-scheme: dark) {
+
+    a {
+        color: #60a5fa;
+    }
+
+    a:hover,
+    a:focus {
+        color: #93c5fd;
+    }
+
+    .card {
+        border-color: rgba(255, 255, 255, .16);
+    }
+
+    .card .meta {
+        color: #aaa;
+    }
+
+    .event-card {
+        background-color: #0b0b0b;
+        color: #f9fafb;
+        border: 1px solid #374151;
+    }
+
+    .event-meta {
+        color: #d1d5db;
+    }
+
+    .event-caption {
+        color: #9ca3af;
+    }
+
+    /* 年アコーディオンの枠やsummary */
+    .year-accordion details {
+        background-color: transparent;
+        border: none;
+    }
+
+    .year-accordion summary {
+        color: #f9fafb;
+        border-bottom: 1px solid #374151;
+    }
+
+    /* 閉じる▲の色もworks基調 */
+    .up-chevron {
+        border-bottom-color: #d1d5db;
+    }
+
+    .year-close-icon:hover .up-chevron {
+        border-bottom-color: #60a5fa;
+    }
+
+}
