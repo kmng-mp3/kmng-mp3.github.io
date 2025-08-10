@@ -34,3 +34,11 @@ body:
     attributes:
       label: 場所
       placeholder: "THE BOXX, 上海"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 概要
+      placeholder: "中国、上海にて年越しイベントにDJとして出演。"
