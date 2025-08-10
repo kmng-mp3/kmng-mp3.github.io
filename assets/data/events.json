@@ -1,1133 +1,1141 @@
 [
-    {
-        "type": "hosted",
-        "title": "SUF! Vol.1",
-        "date": "2024-11-03",
-        "location": "Violetta Shibuya",
-        "description": "Vaperror、Mike Videopunk、Harmful Logic来日に伴い開催。",
-        "media": [
-            {
-                "type": "instagram",
-                "url": "https://www.instagram.com/p/DAOGb9jS2cv/"
-            }
-        ]
-    },
-    {
-        "type": "hosted",
-        "title": "熱いまなざし",
-        "date": "2023-01-07",
-        "location": "Spincoaster Music Bar",
-        "description": "ev.exi、Matsura来日に伴い開催。シティポップ代表曲の歌詞をタイトルにしたFuture Funkメインのパーティ第2弾。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/kissmenerdygirl/status/1600822502317441024"
-            }
-        ]
-    },
-    {
-        "type": "hosted",
-        "title": "突然のキス",
-        "date": "2019-01-29",
-        "location": "Spincoaster Music Bar",
-        "description": "企画した当日に会場と出演者を押さえて開催。シティポップ代表曲の歌詞をタイトルにした、Future Funkメインのパーティ第1弾。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/kissmenerdygirl/status/1188848201941413888"
-            }
-        ]
-    },
-    {
-        "type": "hosted",
-        "title": "都市浮遊",
-        "date": "2019-11-24",
-        "location": "Dimension Shibuya",
-        "description": "Van Paugam来日に伴い開催。シティポップメインのパーティ。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/kissmenerdygirl/status/1184410975484538881"
-            }
-        ]
-    },
-    {
-        "type": "hosted",
-        "title": "都市浮遊 -GOLD DIGGERS-",
-        "date": "2020-01-20",
-        "location": "Spincoaster Music Bar",
-        "description": "Matsura、SOLA THE LUVA来日に伴い開催。シティポップメインのパーティ。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/kissmenerdygirl/status/1207241410195288064"
-            }
-        ]
-    },
-    {
-        "type": "hosted",
-        "title": "都市浮遊",
-        "date": "2023-11-02",
-        "location": "Spincoaster Music Bar",
-        "description": "Van Paugam来日に伴い開催。シティポップメインのパーティ。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/kissmenerdygirl/status/1715699767823708483"
-            }
-        ]
-    },
-    {
-        "type": "hosted",
-        "title": "Sylvie",
-        "date": "2018-04-06",
-        "location": "Ebisu Batica",
-        "description": "hype先輩との共催。ハウスミュージックにフォーカスしたパーティ。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/hy_pe/status/974620375869829121"
-            }
-        ]
-    },
-    {
-        "type": "hosted",
-        "title": "Sylvie",
-        "date": "2018-06-22",
-        "location": "Ebisu Batica",
-        "description": "hype先輩との共催。ハウスミュージックにフォーカスしたパーティ。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/hy_pe/status/1001766997359644672"
-            }
-        ]
-    },
-    {
-        "type": "hosted",
-        "title": "Sylvie",
-        "date": "2018-09-23",
-        "location": "Ebisu Batica",
-        "description": "hype先輩との共催。ハウスミュージックにフォーカスしたパーティ。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/hy_pe/status/1034017865987309573"
-            }
-        ]
-    },
-    {
-        "type": "hosted",
-        "title": "Sylvie",
-        "date": "2018-11-17",
-        "location": "Ebisu Batica",
-        "description": "hype先輩との共催。ハウスミュージックにフォーカスしたパーティだが、Tiger Discoが出演するなど、自由回。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/hy_pe/status/1056916306044215296"
-            }
-        ]
-    },
-    {
-        "type": "hosted",
-        "title": "#プレイ0722",
-        "date": "2017-07-22",
-        "location": "音楽喫茶 茶箱",
-        "description": "Future Funkコレクティブ「ピンクネオン東京」として、初の主催パーティ。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/pinkneontokyo/status/881473541341724672"
-            }
-        ]
-    },
-    {
-        "type": "hosted",
-        "title": "#プレイ1216",
-        "date": "2017-12-16",
-        "location": "nagomix渋谷",
-        "description": "Future Funkコレクティブ「ピンクネオン東京」としての主催パーティ。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/pinkneontokyo/status/932274428980871168"
-            }
-        ]
-    },
-    {
-        "type": "hosted",
-        "title": "#プレイ69",
-        "date": "2018-06-09",
-        "location": "nagomix渋谷",
-        "description": "Future Funkコレクティブ「ピンクネオン東京」としての主催パーティ。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/pinkneontokyo/status/995998362418606081"
-            }
-        ]
-    },
-    {
-        "type": "hosted",
-        "title": "#プレイ69",
-        "date": "2018-06-09",
-        "location": "nagomix渋谷",
-        "description": "Future Funkコレクティブ「ピンクネオン東京」としての主催パーティ。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/pinkneontokyo/status/995998362418606081"
-            }
-        ]
-    },
-    {
-        "type": "hosted",
-        "title": "#レイブ0922",
-        "date": "2018-09-22",
-        "location": "音楽喫茶 茶箱",
-        "description": "Future Funkコレクティブ「ピンクネオン東京」としての主催パーティ。「プレイ」とは異なり、オールジャンルを意識したパーティ。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/pinkneontokyo/status/1039846058463977472"
-            }
-        ]
-    },
-    {
-        "type": "hosted",
-        "title": "#プレイ1222",
-        "date": "2018-12-22",
-        "location": "nagomix渋谷",
-        "description": "Future Funkコレクティブ「ピンクネオン東京」として、平成最後のパーティ。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/pinkneontokyo/status/1064126066527109126/"
-            }
-        ]
-    },
-    {
-        "type": "hosted",
-        "title": "ピンクネオン大阪",
-        "date": "2019-03-02",
-        "location": "なんばMILULARI",
-        "description": "Future Funkコレクティブ「ピンクネオン東京」としてのパーティ。大阪での開催。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/pinkneontokyo/status/1101815107468685313/"
-            }
-        ]
-    },
-    {
-        "type": "hosted",
-        "title": "#プレイ0714",
-        "date": "2019-07-14",
-        "location": "nagomix渋谷",
-        "description": "Future Funkコレクティブ「ピンクネオン東京」としてのパーティ。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/pinkneontokyo/status/1140227584866705409/"
-            }
-        ]
-    },
-    {
-        "type": "hosted",
-        "title": "ごぶさた",
-        "date": "2022-09-17",
-        "location": "音楽喫茶 茶箱",
-        "description": "コロナ情勢下、細心の注意を払えばパーティ開催も可能という機運を感じ取り、人数制限を設けて開催。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/mikazukiBIGWAVE/status/1549023297895104513/"
-            }
-        ]
-    },
-    {
-        "type": "hosted",
-        "title": "#プレイ0125",
-        "date": "2020-01-25",
-        "location": "nagomix渋谷",
-        "description": "Future Funkコレクティブ「ピンクネオン東京」としてのパーティ。コロナ禍直前のタイミング。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/pinkneontokyo/status/1209806017120223232/"
-            }
-        ]
-    },
-    {
-        "type": "hosted",
-        "title": "#プレイ0202",
-        "date": "2025-02-02",
-        "location": "nagomix渋谷",
-        "description": "Future Funkコレクティブ「ピンクネオン東京」として、およそ5年ぶりの「プレイ」。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/pinkneontokyo/status/1875150113456185792/"
-            }
-        ]
-    },
-    {
-        "type": "hosted",
-        "title": "Undefined Symbol",
-        "date": "2019-06-30",
-        "location": "White Space Lab",
-        "description": "b2bユニット「vibesmeme」としてのパーティ。1組90分プレイ。一部ブッキング、及びフライヤー制作を担当。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/Vibes_Kiun/status/1133342464889110529/"
-            }
-        ]
-    },
-    {
-        "type": "hosted",
-        "title": "Undefined Symbol",
-        "date": "2019-10-20",
-        "location": "White Space Lab",
-        "description": "b2bユニット「vibesmeme」としてのパーティ。1組90分プレイ。一部ブッキング、及びフライヤー制作を担当。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/Vibes_Kiun/status/1171015799659610112/"
-            }
-        ]
-    },
-    {
-        "type": "hosted",
-        "title": "Undefined Symbol (中止)",
-        "date": "2020-04-19",
-        "location": "White Space Lab",
-        "description": "b2bユニット「vibesmeme」としてのパーティ。1組90分プレイ。一部ブッキング、及びフライヤー制作を担当したものの、コロナ禍により中止。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/Vibes_Kiun/status/1240609129632116737/"
-            }
-        ]
-    },
-    {
-        "type": "hosted",
-        "title": "Purple Neo Tokyo",
-        "date": "2017-10-08",
-        "location": "White Space Lab",
-        "description": "magic ramen来日に伴い開催。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/Vibes_Kiun/status/914849439612669953/"
-            }
-        ]
-    },
-    {
-        "type": "hosted",
-        "title": "Pitch Shifter",
-        "date": "2019-09-13",
-        "location": "神田 Extrawelt",
-        "description": "Sparkly Night、クリスタルKITSUNE来日に伴い開催。告知後、ADRIANWAVEも追って来日が決定し、出演。VaporwaveとFuture Funkの繋がりの再確認の為のパーティ。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/kissmenerdygirl/status/1161955820562571271/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "NEON GHOST LOVE MACHINE",
-        "date": "2017-07-15",
-        "location": "Seendosi, Seoul",
-        "description": "韓国、ソウルにてDJとして出演。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/neonghostparty/status/884069141329596417"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "Avitation Vapor Office 跨年派對",
-        "date": "2019-12-31",
-        "location": "THE BOXX, 上海",
-        "description": "中国、上海にて年越しイベントにDJとして出演。中国ツアー3現場の最初の現場。",
-        "media": [
-            {
-                "type": "image",
-                "src": "/assets/img/shanghai2019.jpg"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "中国ツアー by Avitation Vapor Office",
-        "date": "2020-01-03",
-        "location": "Vox Livehouse, 武漢",
-        "description": "中国、武漢にてDJとして出演。中国ツアー3現場の2現場目。現場で、武漢で原因不明の肺炎が流行っているとのニュースを見た記憶。",
-        "media": [
-            {
-                "type": "image",
-                "src": "/assets/img/chinatour2019to2020.jpg"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "中国ツアー by Avitation Vapor Office",
-        "date": "2020-01-04",
-        "location": "Vox Livehouse, 長沙",
-        "description": "中国、長沙にてDJとして出演。中国ツアー3現場の3現場目。",
-        "media": [
-            {
-                "type": "image",
-                "src": "/assets/img/chinatour2019to2020.jpg"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "Bitnari!",
-        "date": "2024-08-17",
-        "location": "SWIPE池尻大橋",
-        "description": "DJとして出演、及びフライヤーを制作。Future Funkを主体としたパーティ。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/oogimix/status/1813173987691930109"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "Violetta 5th Anniversary / Day 1",
-        "date": "2024-12-13",
-        "location": "Violetta Shibuya",
-        "description": "DJとして出演、及びフライヤーを制作。5周年記念パーティの初日。",
-        "media": [
-            {
-                "type": "instagram",
-                "url": "https://www.instagram.com/p/DC_x7ofS-73/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "Surface Tension",
-        "date": "2020-07-05",
-        "location": "Streaming (Spincoaster Music Bar)",
-        "description": "DJとして出演、及びフライヤーを制作。コロナ禍につきTwitchにて配信がメイン。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/Vibes_Kiun/status/1277195396322783233/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "Surface Tension",
-        "date": "2020-08-02",
-        "location": "Streaming (Spincoaster Music Bar)",
-        "description": "DJとして出演、及びフライヤーを制作。コロナ禍につきTwitchにて配信がメイン。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/Vibes_Kiun/status/1284095724905361409/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "Surface Tension",
-        "date": "2020-09-13",
-        "location": "Streaming (Spincoaster Music Bar)",
-        "description": "DJとして出演、及びフライヤーを制作。コロナ禍につきTwitchにて配信がメイン。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/Vibes_Kiun/status/1302924639295815681/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "Surface Tension",
-        "date": "2020-10-11",
-        "location": "Streaming (Spincoaster Music Bar)",
-        "description": "DJとして出演、及びフライヤーを制作。コロナ禍につきTwitchにて配信がメイン。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/Vibes_Kiun/status/1312709241757593605/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "Surface Tension",
-        "date": "2020-11-08",
-        "location": "Streaming (Spincoaster Music Bar)",
-        "description": "DJとして1人で出演、及びフライヤーを制作。コロナ禍につきTwitchにて配信がメイン。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/Vibes_Kiun/status/1317797611030523904/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "VAPOR95 LIVE 2.0",
-        "date": "2020-04-30",
-        "location": "Streaming",
-        "description": "DJとして出演。Twitchでの配信のみ。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/Pad_Chennington/status/1255296006037659649/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "VAPOR95 LIVE 4.0",
-        "date": "2020-09-27",
-        "location": "Streaming",
-        "description": "DJとして出演。Twitchでの配信のみ。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/kissmenerdygirl/status/1309545516020035584/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "VAPOR95 LIVE 6.0",
-        "date": "2022-05-30",
-        "location": "Streaming",
-        "description": "DJとして出演。Twitchでの配信のみ。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/kissmenerdygirl/status/1530177673451798529/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "#Vaporwave / 新蒸気波情報ワイド",
-        "date": "2020-02-13",
-        "location": "SUPER DOMMUNE",
-        "description": "DJとして出演。配信及び現地でのスタジオ観覧。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/DOMMUNE/status/1226903417957711874/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "渋家 presents 「\"渋家系\"文化論 2008-2020」",
-        "date": "2020-03-25",
-        "location": "SUPER DOMMUNE",
-        "description": "ピンクネオン東京としてBambooとb2bで出演。配信のみ。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/DOMMUNE/status/1241962227185455104/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "音の数だけ抱きしめて",
-        "date": "2017-01-29",
-        "location": "シフクノート",
-        "description": "DJとして、札幌で初出演。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/katsura4444/status/813361354249674752/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "終わりに",
-        "date": "2019-09-22",
-        "location": "Ebisu Batica",
-        "description": "DJとして出演。Android Apartment来日回。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/hy_pe/status/1165967722473082880/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "終わりに",
-        "date": "2017-12-30",
-        "location": "Ebisu Batica",
-        "description": "DJとして出演。Android52やTANUKI、Moe Shop来日回。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/hy_pe/status/1165967722473082880/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "終わりに",
-        "date": "2019-04-29",
-        "location": "Ebisu Batica",
-        "description": "DJとして出演。ctrl+r, NΣΣT, fusq来日回。恵比寿Batica 8周年記念興行。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/hy_pe/status/1108340459519107072/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "City Pop (#終わりに フロア)",
-        "date": "2018-06-03",
-        "location": "clubasia",
-        "description": "vibesmemeとして、「終わりに」フロアにて出演。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/hy_pe/status/998520933605244931/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "NOAHROCKOKO",
-        "date": "2017-03-11",
-        "location": "Streaming",
-        "description": "vibesmemeとして出演。渋谷スタジオノアから配信。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/ItsInnocence/status/838770600499806210/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "POOL大阪",
-        "date": "2017-05-06",
-        "location": "Circus Osaka",
-        "description": "vibesmemeとして現場初出演。Moe ShopやStepicが来日した回。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/Vibes_Kiun/status/848183702752337921/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "EPITAPH2 (Sylvieフロア)",
-        "date": "2019-02-10",
-        "location": "LOUNGE NEO",
-        "description": "DJとして出演。The Phantom’s Revenge来日回。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/hy_pe/status/1085507653613174784/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "第弐次制作東京市 第壱話 -TOKYO ROMANTIC-",
-        "date": "2020-02-24",
-        "location": "LOUNGE NEO",
-        "description": "DJとして、諸先輩方と無理矢理サブフロアに出演。COEO来日回。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/hy_pe/status/1231495006755545088/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "NEO GAIA LEGEND",
-        "date": "2019-11-08",
-        "location": "Circus Tokyo",
-        "description": "New Masterpiece主催。DJ Pigeonとのb2bユニット「Port Tower '86」として出演。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/nmpDATA/status/1189742276337004544/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "NEO GAIA PHANTASY",
-        "date": "2018-11-16",
-        "location": "Circus Tokyo",
-        "description": "New Masterpiece主催。DJとして出演。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/nmpDATA/status/1052758830935769088/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "甘口忘年会",
-        "date": "2023-12-22",
-        "location": "阿佐ヶ谷Drift",
-        "description": "甘口コレクティブ主催。DJとして出演。",
-        "media": [
-            {
-                "type": "instagram",
-                "url": "https://www.instagram.com/p/C1ba3f3S4hW/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "AMAKUCHI PARTY",
-        "date": "2024-01-19",
-        "location": "阿佐ヶ谷Drift",
-        "description": "甘口コレクティブ主催。DJとして出演。",
-        "media": [
-            {
-                "type": "instagram",
-                "url": "https://www.instagram.com/p/C16tAGUynTP/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "AMAKUCHI PARTY vol.2",
-        "date": "2024-02-16",
-        "location": "阿佐ヶ谷Drift",
-        "description": "甘口コレクティブ主催。DJとして出演。",
-        "media": [
-            {
-                "type": "instagram",
-                "url": "https://www.instagram.com/p/C2tueWCSYuw/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "AMAKUCHI PARTY vol.3",
-        "date": "2024-03-29",
-        "location": "阿佐ヶ谷Drift",
-        "description": "甘口コレクティブ主催。DJとして出演。",
-        "media": [
-            {
-                "type": "instagram",
-                "url": "https://www.instagram.com/p/C4aJIVhycHh/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "AMAKUCHI PARTY vol.4",
-        "date": "2024-04-26",
-        "location": "阿佐ヶ谷Drift",
-        "description": "甘口コレクティブ主催。DJとして出演。",
-        "media": [
-            {
-                "type": "instagram",
-                "url": "https://www.instagram.com/p/C6Gdb0Ayqo0/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "AMAKUCHI PARTY vol.5",
-        "date": "2024-05-31",
-        "location": "阿佐ヶ谷Drift",
-        "description": "甘口コレクティブ主催。DJとして出演。",
-        "media": [
-            {
-                "type": "instagram",
-                "url": "https://www.instagram.com/p/C7Bhp1ISIcH/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "AMAKUCHI PARTY vol.6",
-        "date": "2024-06-28",
-        "location": "阿佐ヶ谷Drift",
-        "description": "甘口コレクティブ主催。DJとして出演。",
-        "media": [
-            {
-                "type": "instagram",
-                "url": "https://www.instagram.com/p/C8T51CtSXVu/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "AMAKUCHI PARTY vol.8",
-        "date": "2024-07-26",
-        "location": "阿佐ヶ谷Drift",
-        "description": "甘口コレクティブ主催。DJとして出演。",
-        "media": [
-            {
-                "type": "instagram",
-                "url": "https://www.instagram.com/p/C9cH2xrSQgy/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "AMAKUCHI PARTY vol.9",
-        "date": "2024-08-23",
-        "location": "阿佐ヶ谷Drift",
-        "description": "甘口コレクティブ主催。DJとして出演。",
-        "media": [
-            {
-                "type": "instagram",
-                "url": "https://www.instagram.com/p/C-Xg7kvSuxU/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "AMAKUCHI PARTY vol.10",
-        "date": "2024-09-27",
-        "location": "阿佐ヶ谷Drift",
-        "description": "甘口コレクティブ主催。DJとして出演。",
-        "media": [
-            {
-                "type": "instagram",
-                "url": "https://www.instagram.com/p/C_6lLnMTpUV/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "AMAKUCHI PARTY vol.11",
-        "date": "2024-10-19",
-        "location": "阿佐ヶ谷Drift",
-        "description": "甘口コレクティブ主催。DJとして出演。",
-        "media": [
-            {
-                "type": "instagram",
-                "url": "https://www.instagram.com/p/DA5rlaLSr6c/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "AMAKUCHI PARTY vol.12",
-        "date": "2024-11-22",
-        "location": "阿佐ヶ谷Drift",
-        "description": "甘口コレクティブ主催。DJとして出演。",
-        "media": [
-            {
-                "type": "instagram",
-                "url": "https://www.instagram.com/p/DCYDGEMyzod/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "AMAKUCHI PARTY vol.13",
-        "date": "2024-12-27",
-        "location": "阿佐ヶ谷Drift",
-        "description": "甘口コレクティブ主催。DJとして出演。",
-        "media": [
-            {
-                "type": "instagram",
-                "url": "https://www.instagram.com/p/DDgtD9bSEHA/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "AMAKUCHI PARTY vol.14",
-        "date": "2025-01-31",
-        "location": "阿佐ヶ谷Drift",
-        "description": "甘口コレクティブ主催。DJとして出演。",
-        "media": [
-            {
-                "type": "instagram",
-                "url": "https://www.instagram.com/p/DEyjFqLSMOi/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "AMAKUCHI PARTY vol.15 『yummy x AMAKUCHI』",
-        "date": "2025-02-28",
-        "location": "阿佐ヶ谷Drift",
-        "description": "甘口コレクティブ主催。DJとして出演。",
-        "media": [
-            {
-                "type": "instagram",
-                "url": "https://www.instagram.com/p/DF-IywDS8Ld/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "AMAKUCHI PARTY vol.16",
-        "date": "2025-03-29",
-        "location": "阿佐ヶ谷Drift",
-        "description": "甘口コレクティブ主催。DJとして出演。",
-        "media": [
-            {
-                "type": "instagram",
-                "url": "https://www.instagram.com/p/DG6xaePS2I_/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "AMAKUCHI PARTY vol.17",
-        "date": "2025-04-26",
-        "location": "阿佐ヶ谷Drift",
-        "description": "甘口コレクティブ主催。DJとして出演。",
-        "media": [
-            {
-                "type": "instagram",
-                "url": "https://www.instagram.com/p/DITPMKiSQTp/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "AMAKUCHI PARTY vol.18",
-        "date": "2025-05-31",
-        "location": "阿佐ヶ谷Drift",
-        "description": "甘口コレクティブ主催。DJとして出演。",
-        "media": [
-            {
-                "type": "instagram",
-                "url": "https://www.instagram.com/p/DJc8UHlyO6Q/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "AMAKUCHI PARTY vol.19",
-        "date": "2025-07-26",
-        "location": "阿佐ヶ谷Drift",
-        "description": "甘口コレクティブ主催。DJとして出演。",
-        "media": [
-            {
-                "type": "instagram",
-                "url": "https://www.instagram.com/p/DL9jPpuywLJ/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "#タワパONLINE",
-        "date": "2021-02-26",
-        "location": "Streaming (千葉ポートタワー)",
-        "description": "DJとして出演。千葉ポートタワーでの出演の様子をストリーミング配信。元々年越し配信だったが、設備の不調にて振り替えて開催。",
-        "media": [
-            {
-                "type": "instagram",
-                "url": "https://www.instagram.com/p/CLu86OsAIet/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "With You",
-        "date": "2023-12-08",
-        "location": "Circus Tokyo",
-        "description": "DJとして出演。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/_yuca4/status/1727643320032309655/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "Heart Net Fest 2021",
-        "date": "2021-07-24",
-        "location": "Streaming",
-        "description": "DJとして事前録画による映像出演。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/HXRT_Network/status/1415578622392426496/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "VirtuaREAL.00 -Reverse- リリース記念イベント",
-        "date": "2019-10-26",
-        "location": "秋葉原エンタス",
-        "description": "DJとして、ミカヅキBIGWAVEとのb2bで出演。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/vtuber0/status/1189844628607885312/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "DIGITAL COMPLEX",
-        "date": "2023-05-06",
-        "location": "秋葉原MOGRA",
-        "description": "DJとして、KISSME-200X名義で出演。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/kissmenerdygirl/status/1653279133634547713/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "未来都市ZUYOR vol.5 ～1st anniversary～",
-        "date": "2023-05-06",
-        "location": "秋葉原MOGRA",
-        "description": "DJとして出演。android52来日回。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/zuyo_dj/status/1219553852434731009/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "MIDNIGHT TEA PARTY",
-        "date": "2024-01-05",
-        "location": "INFINITY CLUB, Seoul",
-        "description": "DJとして出演。Matsuraと一緒に渡韓。",
-        "media": [
-            {
-                "type": "instagram",
-                "url": "https://www.instagram.com/p/C1bYecBpvZe/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "Big City Nights",
-        "date": "2024-01-08",
-        "location": "THE VILLA MARIANA, Seoul",
-        "description": "DJとして出演。Matsuraと一緒に渡韓。",
-        "media": [
-            {
-                "type": "instagram",
-                "url": "https://www.instagram.com/p/C1jbUiMvXaL/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "FUNKY A GO-GO",
-        "date": "2023-12-30",
-        "location": "浦和クニハウス",
-        "description": "DJとして出演。Matsura、ev.exi来日回。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/oogimix/status/1599375201883807744/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "fl0at",
-        "date": "2018-02-03",
-        "location": "Ebisu Batica",
-        "description": "kissmenerdygirl & Moemiとして、DJ + Liveにて出演。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/BaticaEbisu/status/950296279497756673/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "EPITAPH (INTERNETフロア)",
-        "date": "2018-03-31",
-        "location": "Glad & LOUNGE NEO",
-        "description": "ピンクネオン東京として、LOUNGE NEOメインフロアに出演。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/hy_pe/status/968822157970104321/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "Plastic Bob Vol.6",
-        "date": "2017-08-05",
-        "location": "Ebisu Batica",
-        "description": "DJとして出演。他の回にもこっそり出演している。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/BaticaEbisu/status/888297015410544640/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "CAND¥E/KILL vol.2",
-        "date": "2018-07-28",
-        "location": "AOYAMAfai",
-        "description": "DJとして出演。台風回。現場のノリでMomのバックDJを務めた。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/kaedepurple1111/status/1010130422292856832/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "GENESiS vol.11",
-        "date": "2024-05-10",
-        "location": "神楽音 kagurane",
-        "description": "DJとして出演。周年回。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/she_innocence/status/1778740550965039578/"
-            }
-        ]
-    },
-    {
-        "type": "appearance",
-        "title": "MIDNIGHT MOVES",
-        "date": "2023-12-31",
-        "location": "Streaming",
-        "description": "DJとして、事前録画による映像出演。",
-        "media": [
-            {
-                "type": "x",
-                "url": "https://x.com/nightfallcolle/status/1734245357263970416/"
-            }
-        ]
-    }
+  {
+    "type": "appearance",
+    "title": "ZIPANGU the Party!!",
+    "date": "2025-08-22",
+    "location": "ZERO TOKYO",
+    "description": "甘口コレクティブ名義で、DJとして出演。",
+    "media": []
+  },
+  {
+    "type": "appearance",
+    "title": "AMAKUCHI PARTY vol.19",
+    "date": "2025-07-26",
+    "location": "阿佐ヶ谷Drift",
+    "description": "甘口コレクティブ主催。DJとして出演。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/DL9jPpuywLJ/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "AMAKUCHI PARTY vol.18",
+    "date": "2025-05-31",
+    "location": "阿佐ヶ谷Drift",
+    "description": "甘口コレクティブ主催。DJとして出演。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/DJc8UHlyO6Q/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "AMAKUCHI PARTY vol.17",
+    "date": "2025-04-26",
+    "location": "阿佐ヶ谷Drift",
+    "description": "甘口コレクティブ主催。DJとして出演。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/DITPMKiSQTp/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "AMAKUCHI PARTY vol.16",
+    "date": "2025-03-29",
+    "location": "阿佐ヶ谷Drift",
+    "description": "甘口コレクティブ主催。DJとして出演。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/DG6xaePS2I_/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "AMAKUCHI PARTY vol.15 『yummy x AMAKUCHI』",
+    "date": "2025-02-28",
+    "location": "阿佐ヶ谷Drift",
+    "description": "甘口コレクティブ主催。DJとして出演。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/DF-IywDS8Ld/"
+      }
+    ]
+  },
+  {
+    "type": "hosted",
+    "title": "#プレイ0202",
+    "date": "2025-02-02",
+    "location": "nagomix渋谷",
+    "description": "Future Funkコレクティブ「ピンクネオン東京」として、およそ5年ぶりの「プレイ」。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/pinkneontokyo/status/1875150113456185792/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "AMAKUCHI PARTY vol.14",
+    "date": "2025-01-31",
+    "location": "阿佐ヶ谷Drift",
+    "description": "甘口コレクティブ主催。DJとして出演。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/DEyjFqLSMOi/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "AMAKUCHI PARTY vol.13",
+    "date": "2024-12-27",
+    "location": "阿佐ヶ谷Drift",
+    "description": "甘口コレクティブ主催。DJとして出演。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/DDgtD9bSEHA/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "Violetta 5th Anniversary / Day 1",
+    "date": "2024-12-13",
+    "location": "Violetta Shibuya",
+    "description": "DJとして出演、及びフライヤーを制作。5周年記念パーティの初日。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/DC_x7ofS-73/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "AMAKUCHI PARTY vol.12",
+    "date": "2024-11-22",
+    "location": "阿佐ヶ谷Drift",
+    "description": "甘口コレクティブ主催。DJとして出演。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/DCYDGEMyzod/"
+      }
+    ]
+  },
+  {
+    "type": "hosted",
+    "title": "SUF! Vol.1",
+    "date": "2024-11-03",
+    "location": "Violetta Shibuya",
+    "description": "Vaperror、Mike Videopunk、Harmful Logic来日に伴い開催。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/DAOGb9jS2cv/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "AMAKUCHI PARTY vol.11",
+    "date": "2024-10-19",
+    "location": "阿佐ヶ谷Drift",
+    "description": "甘口コレクティブ主催。DJとして出演。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/DA5rlaLSr6c/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "AMAKUCHI PARTY vol.10",
+    "date": "2024-09-27",
+    "location": "阿佐ヶ谷Drift",
+    "description": "甘口コレクティブ主催。DJとして出演。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/C_6lLnMTpUV/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "AMAKUCHI PARTY vol.9",
+    "date": "2024-08-23",
+    "location": "阿佐ヶ谷Drift",
+    "description": "甘口コレクティブ主催。DJとして出演。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/C-Xg7kvSuxU/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "Bitnari!",
+    "date": "2024-08-17",
+    "location": "SWIPE池尻大橋",
+    "description": "DJとして出演、及びフライヤーを制作。Future Funkを主体としたパーティ。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/oogimix/status/1813173987691930109"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "AMAKUCHI PARTY vol.8",
+    "date": "2024-07-26",
+    "location": "阿佐ヶ谷Drift",
+    "description": "甘口コレクティブ主催。DJとして出演。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/C9cH2xrSQgy/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "AMAKUCHI PARTY vol.6",
+    "date": "2024-06-28",
+    "location": "阿佐ヶ谷Drift",
+    "description": "甘口コレクティブ主催。DJとして出演。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/C8T51CtSXVu/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "AMAKUCHI PARTY vol.5",
+    "date": "2024-05-31",
+    "location": "阿佐ヶ谷Drift",
+    "description": "甘口コレクティブ主催。DJとして出演。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/C7Bhp1ISIcH/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "GENESiS vol.11",
+    "date": "2024-05-10",
+    "location": "神楽音 kagurane",
+    "description": "DJとして出演。周年回。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/she_innocence/status/1778740550965039578/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "AMAKUCHI PARTY vol.4",
+    "date": "2024-04-26",
+    "location": "阿佐ヶ谷Drift",
+    "description": "甘口コレクティブ主催。DJとして出演。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/C6Gdb0Ayqo0/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "AMAKUCHI PARTY vol.3",
+    "date": "2024-03-29",
+    "location": "阿佐ヶ谷Drift",
+    "description": "甘口コレクティブ主催。DJとして出演。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/C4aJIVhycHh/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "AMAKUCHI PARTY vol.2",
+    "date": "2024-02-16",
+    "location": "阿佐ヶ谷Drift",
+    "description": "甘口コレクティブ主催。DJとして出演。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/C2tueWCSYuw/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "AMAKUCHI PARTY",
+    "date": "2024-01-19",
+    "location": "阿佐ヶ谷Drift",
+    "description": "甘口コレクティブ主催。DJとして出演。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/C16tAGUynTP/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "Big City Nights",
+    "date": "2024-01-08",
+    "location": "THE VILLA MARIANA, Seoul",
+    "description": "DJとして出演。Matsuraと一緒に渡韓。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/C1jbUiMvXaL/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "MIDNIGHT TEA PARTY",
+    "date": "2024-01-05",
+    "location": "INFINITY CLUB, Seoul",
+    "description": "DJとして出演。Matsuraと一緒に渡韓。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/C1bYecBpvZe/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "MIDNIGHT MOVES",
+    "date": "2023-12-31",
+    "location": "Streaming",
+    "description": "DJとして、事前録画による映像出演。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/nightfallcolle/status/1734245357263970416/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "FUNKY A GO-GO",
+    "date": "2023-12-30",
+    "location": "浦和クニハウス",
+    "description": "DJとして出演。Matsura、ev.exi来日回。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/oogimix/status/1599375201883807744/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "甘口忘年会",
+    "date": "2023-12-22",
+    "location": "阿佐ヶ谷Drift",
+    "description": "甘口コレクティブ主催。DJとして出演。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/C1ba3f3S4hW/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "With You",
+    "date": "2023-12-08",
+    "location": "Circus Tokyo",
+    "description": "DJとして出演。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/_yuca4/status/1727643320032309655/"
+      }
+    ]
+  },
+  {
+    "type": "hosted",
+    "title": "都市浮遊",
+    "date": "2023-11-02",
+    "location": "Spincoaster Music Bar",
+    "description": "Van Paugam来日に伴い開催。シティポップメインのパーティ。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/kissmenerdygirl/status/1715699767823708483"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "DIGITAL COMPLEX",
+    "date": "2023-05-06",
+    "location": "秋葉原MOGRA",
+    "description": "DJとして、KISSME-200X名義で出演。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/kissmenerdygirl/status/1653279133634547713/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "未来都市ZUYOR vol.5 ～1st anniversary～",
+    "date": "2023-05-06",
+    "location": "秋葉原MOGRA",
+    "description": "DJとして出演。android52来日回。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/zuyo_dj/status/1219553852434731009/"
+      }
+    ]
+  },
+  {
+    "type": "hosted",
+    "title": "熱いまなざし",
+    "date": "2023-01-07",
+    "location": "Spincoaster Music Bar",
+    "description": "ev.exi、Matsura来日に伴い開催。シティポップ代表曲の歌詞をタイトルにしたFuture Funkメインのパーティ第2弾。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/kissmenerdygirl/status/1600822502317441024"
+      }
+    ]
+  },
+  {
+    "type": "hosted",
+    "title": "ごぶさた",
+    "date": "2022-09-17",
+    "location": "音楽喫茶 茶箱",
+    "description": "コロナ情勢下、細心の注意を払えばパーティ開催も可能という機運を感じ取り、人数制限を設けて開催。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/mikazukiBIGWAVE/status/1549023297895104513/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "VAPOR95 LIVE 6.0",
+    "date": "2022-05-30",
+    "location": "Streaming",
+    "description": "DJとして出演。Twitchでの配信のみ。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/kissmenerdygirl/status/1530177673451798529/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "Heart Net Fest 2021",
+    "date": "2021-07-24",
+    "location": "Streaming",
+    "description": "DJとして事前録画による映像出演。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/HXRT_Network/status/1415578622392426496/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "#タワパONLINE",
+    "date": "2021-02-26",
+    "location": "Streaming (千葉ポートタワー)",
+    "description": "DJとして出演。千葉ポートタワーでの出演の様子をストリーミング配信。元々年越し配信だったが、設備の不調にて振り替えて開催。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/CLu86OsAIet/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "Surface Tension",
+    "date": "2020-11-08",
+    "location": "Streaming (Spincoaster Music Bar)",
+    "description": "DJとして1人で出演、及びフライヤーを制作。コロナ禍につきTwitchにて配信がメイン。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/Vibes_Kiun/status/1317797611030523904/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "Surface Tension",
+    "date": "2020-10-11",
+    "location": "Streaming (Spincoaster Music Bar)",
+    "description": "DJとして出演、及びフライヤーを制作。コロナ禍につきTwitchにて配信がメイン。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/Vibes_Kiun/status/1312709241757593605/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "VAPOR95 LIVE 4.0",
+    "date": "2020-09-27",
+    "location": "Streaming",
+    "description": "DJとして出演。Twitchでの配信のみ。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/kissmenerdygirl/status/1309545516020035584/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "Surface Tension",
+    "date": "2020-09-13",
+    "location": "Streaming (Spincoaster Music Bar)",
+    "description": "DJとして出演、及びフライヤーを制作。コロナ禍につきTwitchにて配信がメイン。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/Vibes_Kiun/status/1302924639295815681/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "Surface Tension",
+    "date": "2020-08-02",
+    "location": "Streaming (Spincoaster Music Bar)",
+    "description": "DJとして出演、及びフライヤーを制作。コロナ禍につきTwitchにて配信がメイン。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/Vibes_Kiun/status/1284095724905361409/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "Surface Tension",
+    "date": "2020-07-05",
+    "location": "Streaming (Spincoaster Music Bar)",
+    "description": "DJとして出演、及びフライヤーを制作。コロナ禍につきTwitchにて配信がメイン。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/Vibes_Kiun/status/1277195396322783233/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "VAPOR95 LIVE 2.0",
+    "date": "2020-04-30",
+    "location": "Streaming",
+    "description": "DJとして出演。Twitchでの配信のみ。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/Pad_Chennington/status/1255296006037659649/"
+      }
+    ]
+  },
+  {
+    "type": "hosted",
+    "title": "Undefined Symbol (中止)",
+    "date": "2020-04-19",
+    "location": "White Space Lab",
+    "description": "b2bユニット「vibesmeme」としてのパーティ。1組90分プレイ。一部ブッキング、及びフライヤー制作を担当したものの、コロナ禍により中止。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/Vibes_Kiun/status/1240609129632116737/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "渋家 presents 「\"渋家系\"文化論 2008-2020」",
+    "date": "2020-03-25",
+    "location": "SUPER DOMMUNE",
+    "description": "ピンクネオン東京としてBambooとb2bで出演。配信のみ。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/DOMMUNE/status/1241962227185455104/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "第弐次制作東京市 第壱話 -TOKYO ROMANTIC-",
+    "date": "2020-02-24",
+    "location": "LOUNGE NEO",
+    "description": "DJとして、諸先輩方と無理矢理サブフロアに出演。COEO来日回。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/hy_pe/status/1231495006755545088/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "#Vaporwave / 新蒸気波情報ワイド",
+    "date": "2020-02-13",
+    "location": "SUPER DOMMUNE",
+    "description": "DJとして出演。配信及び現地でのスタジオ観覧。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/DOMMUNE/status/1226903417957711874/"
+      }
+    ]
+  },
+  {
+    "type": "hosted",
+    "title": "#プレイ0125",
+    "date": "2020-01-25",
+    "location": "nagomix渋谷",
+    "description": "Future Funkコレクティブ「ピンクネオン東京」としてのパーティ。コロナ禍直前のタイミング。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/pinkneontokyo/status/1209806017120223232/"
+      }
+    ]
+  },
+  {
+    "type": "hosted",
+    "title": "都市浮遊 -GOLD DIGGERS-",
+    "date": "2020-01-20",
+    "location": "Spincoaster Music Bar",
+    "description": "Matsura、SOLA THE LUVA来日に伴い開催。シティポップメインのパーティ。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/kissmenerdygirl/status/1207241410195288064"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "中国ツアー by Avitation Vapor Office",
+    "date": "2020-01-04",
+    "location": "Vox Livehouse, 長沙",
+    "description": "中国、長沙にてDJとして出演。中国ツアー3現場の3現場目。",
+    "media": [
+      {
+        "type": "image",
+        "src": "/assets/img/chinatour2019to2020.jpg"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "中国ツアー by Avitation Vapor Office",
+    "date": "2020-01-03",
+    "location": "Vox Livehouse, 武漢",
+    "description": "中国、武漢にてDJとして出演。中国ツアー3現場の2現場目。現場で、武漢で原因不明の肺炎が流行っているとのニュースを見た記憶。",
+    "media": [
+      {
+        "type": "image",
+        "src": "/assets/img/chinatour2019to2020.jpg"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "Avitation Vapor Office 跨年派對",
+    "date": "2019-12-31",
+    "location": "THE BOXX, 上海",
+    "description": "中国、上海にて年越しイベントにDJとして出演。中国ツアー3現場の最初の現場。",
+    "media": [
+      {
+        "type": "image",
+        "src": "/assets/img/shanghai2019.jpg"
+      }
+    ]
+  },
+  {
+    "type": "hosted",
+    "title": "都市浮遊",
+    "date": "2019-11-24",
+    "location": "Dimension Shibuya",
+    "description": "Van Paugam来日に伴い開催。シティポップメインのパーティ。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/kissmenerdygirl/status/1184410975484538881"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "NEO GAIA LEGEND",
+    "date": "2019-11-08",
+    "location": "Circus Tokyo",
+    "description": "New Masterpiece主催。DJ Pigeonとのb2bユニット「Port Tower '86」として出演。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/nmpDATA/status/1189742276337004544/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "VirtuaREAL.00 -Reverse- リリース記念イベント",
+    "date": "2019-10-26",
+    "location": "秋葉原エンタス",
+    "description": "DJとして、ミカヅキBIGWAVEとのb2bで出演。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/vtuber0/status/1189844628607885312/"
+      }
+    ]
+  },
+  {
+    "type": "hosted",
+    "title": "Undefined Symbol",
+    "date": "2019-10-20",
+    "location": "White Space Lab",
+    "description": "b2bユニット「vibesmeme」としてのパーティ。1組90分プレイ。一部ブッキング、及びフライヤー制作を担当。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/Vibes_Kiun/status/1171015799659610112/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "終わりに",
+    "date": "2019-09-22",
+    "location": "Ebisu Batica",
+    "description": "DJとして出演。Android Apartment来日回。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/hy_pe/status/1165967722473082880/"
+      }
+    ]
+  },
+  {
+    "type": "hosted",
+    "title": "Pitch Shifter",
+    "date": "2019-09-13",
+    "location": "神田 Extrawelt",
+    "description": "Sparkly Night、クリスタルKITSUNE来日に伴い開催。告知後、ADRIANWAVEも追って来日が決定し、出演。VaporwaveとFuture Funkの繋がりの再確認の為のパーティ。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/kissmenerdygirl/status/1161955820562571271/"
+      }
+    ]
+  },
+  {
+    "type": "hosted",
+    "title": "#プレイ0714",
+    "date": "2019-07-14",
+    "location": "nagomix渋谷",
+    "description": "Future Funkコレクティブ「ピンクネオン東京」としてのパーティ。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/pinkneontokyo/status/1140227584866705409/"
+      }
+    ]
+  },
+  {
+    "type": "hosted",
+    "title": "Undefined Symbol",
+    "date": "2019-06-30",
+    "location": "White Space Lab",
+    "description": "b2bユニット「vibesmeme」としてのパーティ。1組90分プレイ。一部ブッキング、及びフライヤー制作を担当。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/Vibes_Kiun/status/1133342464889110529/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "終わりに",
+    "date": "2019-04-29",
+    "location": "Ebisu Batica",
+    "description": "DJとして出演。ctrl+r, NΣΣT, fusq来日回。恵比寿Batica 8周年記念興行。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/hy_pe/status/1108340459519107072/"
+      }
+    ]
+  },
+  {
+    "type": "hosted",
+    "title": "ピンクネオン大阪",
+    "date": "2019-03-02",
+    "location": "なんばMILULARI",
+    "description": "Future Funkコレクティブ「ピンクネオン東京」としてのパーティ。大阪での開催。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/pinkneontokyo/status/1101815107468685313/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "EPITAPH2 (Sylvieフロア)",
+    "date": "2019-02-10",
+    "location": "LOUNGE NEO",
+    "description": "DJとして出演。The Phantom’s Revenge来日回。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/hy_pe/status/1085507653613174784/"
+      }
+    ]
+  },
+  {
+    "type": "hosted",
+    "title": "突然のキス",
+    "date": "2019-01-29",
+    "location": "Spincoaster Music Bar",
+    "description": "企画した当日に会場と出演者を押さえて開催。シティポップ代表曲の歌詞をタイトルにした、Future Funkメインのパーティ第1弾。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/kissmenerdygirl/status/1188848201941413888"
+      }
+    ]
+  },
+  {
+    "type": "hosted",
+    "title": "#プレイ1222",
+    "date": "2018-12-22",
+    "location": "nagomix渋谷",
+    "description": "Future Funkコレクティブ「ピンクネオン東京」として、平成最後のパーティ。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/pinkneontokyo/status/1064126066527109126/"
+      }
+    ]
+  },
+  {
+    "type": "hosted",
+    "title": "Sylvie",
+    "date": "2018-11-17",
+    "location": "Ebisu Batica",
+    "description": "hype先輩との共催。ハウスミュージックにフォーカスしたパーティだが、Tiger Discoが出演するなど、自由回。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/hy_pe/status/1056916306044215296"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "NEO GAIA PHANTASY",
+    "date": "2018-11-16",
+    "location": "Circus Tokyo",
+    "description": "New Masterpiece主催。DJとして出演。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/nmpDATA/status/1052758830935769088/"
+      }
+    ]
+  },
+  {
+    "type": "hosted",
+    "title": "Sylvie",
+    "date": "2018-09-23",
+    "location": "Ebisu Batica",
+    "description": "hype先輩との共催。ハウスミュージックにフォーカスしたパーティ。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/hy_pe/status/1034017865987309573"
+      }
+    ]
+  },
+  {
+    "type": "hosted",
+    "title": "#レイブ0922",
+    "date": "2018-09-22",
+    "location": "音楽喫茶 茶箱",
+    "description": "Future Funkコレクティブ「ピンクネオン東京」としての主催パーティ。「プレイ」とは異なり、オールジャンルを意識したパーティ。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/pinkneontokyo/status/1039846058463977472"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "CAND¥E/KILL vol.2",
+    "date": "2018-07-28",
+    "location": "AOYAMAfai",
+    "description": "DJとして出演。台風回。現場のノリでMomのバックDJを務めた。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/kaedepurple1111/status/1010130422292856832/"
+      }
+    ]
+  },
+  {
+    "type": "hosted",
+    "title": "Sylvie",
+    "date": "2018-06-22",
+    "location": "Ebisu Batica",
+    "description": "hype先輩との共催。ハウスミュージックにフォーカスしたパーティ。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/hy_pe/status/1001766997359644672"
+      }
+    ]
+  },
+  {
+    "type": "hosted",
+    "title": "#プレイ69",
+    "date": "2018-06-09",
+    "location": "nagomix渋谷",
+    "description": "Future Funkコレクティブ「ピンクネオン東京」としての主催パーティ。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/pinkneontokyo/status/995998362418606081"
+      }
+    ]
+  },
+  {
+    "type": "hosted",
+    "title": "#プレイ69",
+    "date": "2018-06-09",
+    "location": "nagomix渋谷",
+    "description": "Future Funkコレクティブ「ピンクネオン東京」としての主催パーティ。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/pinkneontokyo/status/995998362418606081"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "City Pop (#終わりに フロア)",
+    "date": "2018-06-03",
+    "location": "clubasia",
+    "description": "vibesmemeとして、「終わりに」フロアにて出演。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/hy_pe/status/998520933605244931/"
+      }
+    ]
+  },
+  {
+    "type": "hosted",
+    "title": "Sylvie",
+    "date": "2018-04-06",
+    "location": "Ebisu Batica",
+    "description": "hype先輩との共催。ハウスミュージックにフォーカスしたパーティ。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/hy_pe/status/974620375869829121"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "EPITAPH (INTERNETフロア)",
+    "date": "2018-03-31",
+    "location": "Glad & LOUNGE NEO",
+    "description": "ピンクネオン東京として、LOUNGE NEOメインフロアに出演。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/hy_pe/status/968822157970104321/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "fl0at",
+    "date": "2018-02-03",
+    "location": "Ebisu Batica",
+    "description": "kissmenerdygirl & Moemiとして、DJ + Liveにて出演。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/BaticaEbisu/status/950296279497756673/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "終わりに",
+    "date": "2017-12-30",
+    "location": "Ebisu Batica",
+    "description": "DJとして出演。Android52やTANUKI、Moe Shop来日回。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/hy_pe/status/1165967722473082880/"
+      }
+    ]
+  },
+  {
+    "type": "hosted",
+    "title": "#プレイ1216",
+    "date": "2017-12-16",
+    "location": "nagomix渋谷",
+    "description": "Future Funkコレクティブ「ピンクネオン東京」としての主催パーティ。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/pinkneontokyo/status/932274428980871168"
+      }
+    ]
+  },
+  {
+    "type": "hosted",
+    "title": "Purple Neo Tokyo",
+    "date": "2017-10-08",
+    "location": "White Space Lab",
+    "description": "magic ramen来日に伴い開催。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/Vibes_Kiun/status/914849439612669953/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "Plastic Bob Vol.6",
+    "date": "2017-08-05",
+    "location": "Ebisu Batica",
+    "description": "DJとして出演。他の回にもこっそり出演している。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/BaticaEbisu/status/888297015410544640/"
+      }
+    ]
+  },
+  {
+    "type": "hosted",
+    "title": "#プレイ0722",
+    "date": "2017-07-22",
+    "location": "音楽喫茶 茶箱",
+    "description": "Future Funkコレクティブ「ピンクネオン東京」として、初の主催パーティ。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/pinkneontokyo/status/881473541341724672"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "NEON GHOST LOVE MACHINE",
+    "date": "2017-07-15",
+    "location": "Seendosi, Seoul",
+    "description": "韓国、ソウルにてDJとして出演。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/neonghostparty/status/884069141329596417"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "POOL大阪",
+    "date": "2017-05-06",
+    "location": "Circus Osaka",
+    "description": "vibesmemeとして現場初出演。Moe ShopやStepicが来日した回。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/Vibes_Kiun/status/848183702752337921/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "NOAHROCKOKO",
+    "date": "2017-03-11",
+    "location": "Streaming",
+    "description": "vibesmemeとして出演。渋谷スタジオノアから配信。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/ItsInnocence/status/838770600499806210/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "音の数だけ抱きしめて",
+    "date": "2017-01-29",
+    "location": "シフクノート",
+    "description": "DJとして、札幌で初出演。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/katsura4444/status/813361354249674752/"
+      }
+    ]
+  }
 ]
