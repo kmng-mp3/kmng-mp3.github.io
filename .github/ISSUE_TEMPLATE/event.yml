@@ -1,7 +1,6 @@
 name: Add Event (Events & Appearances)
 description: events.json にイベントを追加します
-labels:
-  - event
+labels: ["event"]
 
 body:
   - type: dropdown
@@ -14,70 +13,11 @@ body:
     validations:
       required: true
 
+body:
   - type: input
     id: title
     attributes:
       label: タイトル
-      placeholder: "例) Avitation Vapor Office 跨年派對"
+      placeholder: 例) Avitation Vapor Office 跨年派對
     validations:
       required: true
-
-  - type: input
-    id: date
-    attributes:
-      label: 日付 (YYYY-MM-DD)
-      placeholder: "2019-12-31"
-    validations:
-      required: true
-
-  - type: input
-    id: location
-    attributes:
-      label: 場所
-      placeholder: "THE BOXX, 上海"
-
-  - type: textarea
-    id: description
-    attributes:
-      label: 概要
-      placeholder: "中国、上海にて年越しイベントにDJとして出演。"
-
-  - type: dropdown
-    id: media_type
-    attributes:
-      label: メディア種別
-      options:
-        - image
-        - x
-        - instagram
-        - none
-    validations:
-      required: true
-
-  - type: input
-    id: media_src
-    attributes:
-      label: メディアURL/パス
-      placeholder: "image: /assets/img/xxx.jpg / x・instagram: 投稿URL"
-
-  - type: input
-    id: media_alt
-    attributes:
-      label: 画像alt(任意)
-
-  - type: input
-    id: media_caption
-    attributes:
-      label: キャプション(任意)
-
-  - type: input
-    id: link_label
-    attributes:
-      label: 追加リンク(任意) ラベル
-      placeholder: "レポート"
-
-  - type: input
-    id: link_url
-    attributes:
-      label: 追加リンク(任意) URL
-      placeholder: "https://..."
