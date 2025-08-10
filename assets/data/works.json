@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Foolish Heart",
+    "artist": "Nyanners",
+    "role": "Composer/Producer",
+    "release_date": "2021-04-25",
+    "label": "InterLabel, VShojo",
+    "embed": {
+      "type": "youtube",
+      "src": "https://www.youtube.com/embed/tIxUUkmnFCo"
+    }
+  },
+  {
+    "title": "Vanta [feat. ワニのヤカ] - kissmenerdygirl Remix",
+    "artist": "Batsu, ワニのヤカ",
+    "role": "Remixer",
+    "release_date": "2020-01-14",
+    "label": "USAGI Production",
+    "embed": {
+      "type": "spotify",
+      "src": "https://open.spotify.com/embed/track/7EeGAqUIpjwS2PiyIl5HPB"
+    }
+  },
+  {
+    "title": "キスミー - kissmenerdygirl 200X Remix",
+    "artist": "ハレトキドキ",
+    "role": "Remixer",
+    "release_date": "2019-04-17",
+    "label": "HYPER POP RECORDS",
+    "embed": {
+      "type": "spotify",
+      "src": "https://open.spotify.com/embed/track/6On9mPFrI6fDvo7umlSYgU"
+    }
+  },
+  {
+    "title": "Airship Theme (kissmenerdygirl Airport Reggae Dub)",
+    "artist": "Equip, R23X",
+    "role": "Remixer",
+    "release_date": "2021-03-25",
+    "label": "100% Electronica",
+    "embed": {
+      "type": "spotify",
+      "src": "https://open.spotify.com/embed/track/4Uhcf8bZ5hgPd1s2gdN4oZ"
+    }
+  },
+  {
+    "title": "おうちででぃすこ２０２０ feat.Pino/Keylight Distortion",
+    "artist": "KBM",
+    "role": "Composer/Producer",
+    "release_date": "2020-04-28",
+    "label": "-",
+    "embed": {
+      "type": "youtube",
+      "src": "https://www.youtube.com/embed/wJaRbUnm17Q"
+    }
+  },
+  {
+    "title": "Situation (kissmenerdygirl Remix)",
+    "artist": "JAYDA",
+    "role": "Remixer",
+    "release_date": "2020-04-06",
+    "label": "-",
+    "embed": {
+      "type": "sporify",
+      "src": "https://open.spotify.com/embed/track/41d5IRDOIWQfYaFamRBRWQ"
+    }
+  },
+  {
+    "title": "Ride On",
+    "artist": "Takumi F., kissmenerdygirl",
+    "role": "Composer/Producer",
+    "release_date": "2023-08-31",
+    "label": "Darknet Recordings",
+    "embed": {
+      "type": "sporify",
+      "src": "https://open.spotify.com/embed/track/7o6u05azBYbByxr3n15ru1"
+    }
+  },
+  {
+    "title": "Cream Soda - kissmenerdygirl Remix",
+    "artist": "Takakoh",
+    "role": "Remixer",
+    "release_date": "2020-11-28",
+    "label": "-",
+    "embed": {
+      "type": "sporify",
+      "src": "https://open.spotify.com/embed/track/3b4F4E3d647fSm11l7pfV2"
+    }
+  }
+]
