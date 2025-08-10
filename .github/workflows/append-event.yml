@@ -44,7 +44,7 @@ jobs:
               '場所': 'location',
               '概要': 'description',
               'メディア種別': 'media_type',
-              'メディアURL/パス': 'media_src',
+              'メディアURLパス': 'media_src',
               '画像alt(任意)': 'media_alt',
               'キャプション(任意)': 'media_caption',
               '追加リンク(任意) ラベル': 'link_label',

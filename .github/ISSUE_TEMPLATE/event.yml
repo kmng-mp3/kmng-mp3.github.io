@@ -46,7 +46,7 @@ body:
   - type: input
     id: media_type
     attributes:
-      label: "メディア種別 (image / x / instagram / none)"
+      label: "メディア種別"
       placeholder: "image / x / instagram / none のいずれか"
     validations:
       required: true
