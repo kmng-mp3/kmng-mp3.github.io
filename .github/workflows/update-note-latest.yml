@@ -2,7 +2,7 @@ name: Update note latest
 
 on:
   schedule:
-    - cron: '0 * * * *' # 毎時00分に更新
+    - cron: '0 3 * * *' # 毎日12時に取得
   workflow_dispatch:
 
 jobs:
