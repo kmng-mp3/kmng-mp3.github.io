@@ -1,0 +1,135 @@
+name: Append event to events.json
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  append:
+    if: >
+      contains(join(github.event.issue.labels.*.name, ','), 'event') &&
+      (github.event.issue.author_association == 'OWNER')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+
+    concurrency:
+      group: append-events-json
+      cancel-in-progress: false
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Parse Issue Form → fields
+        id: parse
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const body = context.payload.issue.body || '';
+            // "### ラベル\n値" の形式をパース
+            const fields = {};
+            const re = /###\s+([^\n]+)\n+([\s\S]*?)(?=\n###|\n*$)/g;
+            let m;
+            while ((m = re.exec(body))) {
+              const key = m[1].trim();
+              const val = m[2].trim();
+              fields[key] = val;
+            }
+            // ラベル名→キー変換
+            const map = {
+              '種別': 'type',
+              'タイトル': 'title',
+              '日付 (YYYY-MM-DD)': 'date',
+              '場所': 'location',
+              '概要': 'description',
+              'メディア種別': 'media_type',
+              'メディアURL/パス': 'media_src',
+              '画像alt(任意)': 'media_alt',
+              'キャプション(任意)': 'media_caption',
+              '追加リンク(任意) ラベル': 'link_label',
+              '追加リンク(任意) URL': 'link_url'
+            };
+            const out = {};
+            for (const [label, key] of Object.entries(map)) out[key] = fields[label] || '';
+            core.setOutput('json', JSON.stringify(out));
+
+      - name: Build event object & append
+        env:
+          FIELDS: ${{ steps.parse.outputs.json }}
+        run: |
+          node - <<'NODE'
+          const fs = require('fs');
+          const path = 'assets/data/events.json';
+          const f = JSON.parse(process.env.FIELDS || '{}');
+
+          const clean = (s) => (s||'').trim();
+
+          // 1) 読み込み
+          const arr = fs.existsSync(path) ? JSON.parse(fs.readFileSync(path,'utf8')||'[]') : [];
+
+          // 2) イベント構築
+          const evt = {
+            type: clean(f.type),
+            title: clean(f.title),
+            date: clean(f.date),
+            location: clean(f.location),
+            description: clean(f.description),
+          };
+
+          // 3) media
+          const mt = clean(f.media_type).toLowerCase();
+          const ms = clean(f.media_src);
+          evt.media = [];
+          if (mt && mt !== 'none' && ms) {
+            if (mt === 'image') {
+              const m = { type: 'image', src: ms };
+              if (clean(f.media_alt)) m.alt = clean(f.media_alt);
+              if (clean(f.media_caption)) m.caption = clean(f.media_caption);
+              evt.media.push(m);
+            } else if (mt === 'x') {
+              evt.media.push({ type: 'x', url: ms });
+            } else if (mt === 'instagram') {
+              evt.media.push({ type: 'instagram', url: ms });
+            }
+          }
+
+          // 4) links
+          if (clean(f.link_label) && clean(f.link_url)) {
+            evt.links = [{ label: clean(f.link_label), url: clean(f.link_url) }];
+          }
+
+          // 必須チェック
+          for (const k of ['type','title','date']) {
+            if (!evt[k]) { console.error(`Missing field: ${k}`); process.exit(1); }
+          }
+
+          // 5) 追加して日付降順
+          arr.push(evt);
+          arr.sort((a,b)=> String(b.date||'').localeCompare(String(a.date||'')));
+
+          // 6) 保存
+          fs.writeFileSync(path, JSON.stringify(arr, null, 2) + '\n', 'utf8');
+          console.log('Appended:', evt.title, evt.date);
+          NODE
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/data/events.json
+          git commit -m "Add event from issue #${{ github.event.issue.number }}"
+          git push
+
+      - name: Close issue with comment
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const number = context.payload.issue.number;
+            await github.rest.issues.createComment({
+              owner: context.repo.owner, repo: context.repo.repo, issue_number: number,
+              body: "events.json に追加・コミットしました ✅（OWNER/COLLABORATORのみ実行）"
+            });
+            await github.rest.issues.update({
+              owner: context.repo.owner, repo: context.repo.repo, issue_number: number, state: "closed"
+            });
