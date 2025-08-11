@@ -482,6 +482,19 @@
   },
   {
     "type": "appearance",
+    "title": "PURE",
+    "date": "2021-06-26",
+    "location": "HEARTBEAT",
+    "description": "甲府のHEARTBEATにて、DJとして出演。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/kissmenerdygirl/status/1408377014784905220"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
     "title": "#タワパONLINE",
     "date": "2021-02-26",
     "location": "Streaming (千葉ポートタワー)",
