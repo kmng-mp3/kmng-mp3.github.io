@@ -1054,6 +1054,19 @@
   },
   {
     "type": "appearance",
+    "title": "C4ex",
+    "date": "2018-01-27",
+    "location": "Sound Lab mole",
+    "description": "DJとして出演。豪華メンバーにも関わらず、実質入場無料。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/phone_rock/status/951107395249258496"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
     "title": "終わりに",
     "date": "2017-12-30",
     "location": "Ebisu Batica",
