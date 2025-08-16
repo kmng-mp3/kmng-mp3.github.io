@@ -417,19 +417,6 @@
   },
   {
     "type": "appearance",
-    "title": "未来都市ZUYOR vol.5 ～1st anniversary～",
-    "date": "2023-03-20",
-    "location": "秋葉原MOGRA",
-    "description": "DJとして出演。android52来日回。",
-    "media": [
-      {
-        "type": "x",
-        "url": "https://x.com/zuyo_dj/status/1219553852434731009/"
-      }
-    ]
-  },
-  {
-    "type": "appearance",
     "title": "LIFE IS GOOD vol.2",
     "date": "2023-04-29",
     "location": "Another Dimension",
@@ -438,6 +425,19 @@
       {
         "type": "x",
         "url": "https://x.com/kissmenerdygirl/status/1635602095738097664"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "未来都市ZUYOR vol.5 ～1st anniversary～",
+    "date": "2023-03-20",
+    "location": "秋葉原MOGRA",
+    "description": "DJとして出演。android52来日回。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/zuyo_dj/status/1219553852434731009/"
       }
     ]
   },
@@ -945,6 +945,19 @@
       {
         "type": "x",
         "url": "https://x.com/nmpDATA/status/1052758830935769088/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
+    "title": "Pattern Recognition presents: TOTEMS",
+    "date": "2018-10-05",
+    "location": "Circus Tokyo",
+    "description": "DJとして出演。TOTEMS来日に伴い、ROC///OPT/ことLil Stiffyに招集をかけられて出演。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/Boi9z08Hyvr/"
       }
     ]
   },
