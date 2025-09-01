@@ -1,6 +1,19 @@
 [
   {
     "type": "appearance",
+    "title": "Room to Bloom Vol.3",
+    "date": "2025-09-20",
+    "location": "SWIPE池尻大橋",
+    "description": "DJとして出演。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/DODxZBOEnth/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
     "title": "ZIPANGU the Party!!",
     "date": "2025-08-22",
     "location": "ZERO TOKYO",
