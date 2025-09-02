@@ -1,6 +1,19 @@
 [
   {
     "type": "appearance",
+    "title": "伝説の途中",
+    "date": "2025-10-25",
+    "location": "渋谷WOMB",
+    "description": "甘口コレクティブ担当フロアにて、DJとして出演。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/DOGIEwgCUwo/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
     "title": "Room to Bloom Vol.3",
     "date": "2025-09-20",
     "location": "SWIPE池尻大橋",
