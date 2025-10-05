@@ -1,6 +1,19 @@
 [
   {
     "type": "appearance",
+    "title": "House on Sunday",
+    "date": "2025-10-26",
+    "location": "町田カプセル",
+    "description": "コーヒーも飲めるHOUSEパーティ。DJとして出演。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/Tec_hnoBreaker/status/1974819596218908801"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
     "title": "伝説の途中",
     "date": "2025-10-25",
     "location": "渋谷WOMB",
