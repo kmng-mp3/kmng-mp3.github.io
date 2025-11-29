@@ -1,6 +1,19 @@
 [
   {
     "type": "appearance",
+    "title": "AMAKUCHI PARTY vol.22",
+    "date": "2025-11-29",
+    "location": "阿佐ヶ谷Drift",
+    "description": "甘口コレクティブ主催。DJとして出演。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/DQ6ZjmoCULV/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
     "title": "House on Sunday",
     "date": "2025-10-26",
     "location": "町田カプセル",
