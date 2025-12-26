@@ -1,6 +1,19 @@
 [
   {
     "type": "appearance",
+    "title": "甘口 × なーどーぷ 忘年会",
+    "date": "2025-12-28",
+    "location": "中目黒HVEN",
+    "description": "甘口コレクティブとなーどーぷによる2025年の忘年会。DJとして出演。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/DR5_ebSCasc/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
     "title": "AMAKUCHI PARTY vol.22",
     "date": "2025-11-29",
     "location": "阿佐ヶ谷Drift",
