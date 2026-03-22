@@ -8,17 +8,29 @@
     // release_date の降順
     const byDate = items.slice().sort((a, b) => (b.release_date || '').localeCompare(a.release_date || ''));
 
+    let counter = 1;
     for (const it of byDate) {
       const card = document.createElement('article');
       card.className = 'card';
       card.setAttribute('itemscope', '');
       card.setAttribute('itemtype', 'https://schema.org/MusicRecording');
 
+      // テキストゾーン（番号・タイトル・メタをまとめる）
+      const textZone = document.createElement('div');
+      textZone.className = 'card-text';
+
+      // 番号ラベル
+      const num = document.createElement('span');
+      num.className = 'card-number';
+      num.textContent = String(counter).padStart(2, '0');
+      textZone.appendChild(num);
+      counter++;
+
       // タイトル
       const h3 = document.createElement('h3');
       h3.textContent = it.title || 'Untitled';
       h3.itemProp = 'name';
-      card.appendChild(h3);
+      textZone.appendChild(h3);
 
       // メタ情報（<br>で改行）
       const meta = document.createElement('div');
@@ -38,9 +50,10 @@
           ].filter(Boolean).join(' ・ ')
         ]
           .filter(Boolean)
-          .join('<br>'); // ←ここで改行
+          .join('<br>');
 
-      card.appendChild(meta);
+      textZone.appendChild(meta);
+      card.appendChild(textZone);
 
 
       // 埋め込み（YouTube/Spotifyを同じラッパーに入れて高さを揃える）
@@ -61,6 +74,7 @@
         }
 
         if (type === 'spotify') {
+          wrapper.className = 'video-wrapper video-wrapper--spotify';
           iframe.className = 'spotify-embed';
           iframe.allow = 'encrypted-media';
         }

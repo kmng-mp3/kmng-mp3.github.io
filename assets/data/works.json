@@ -72,7 +72,7 @@
     "release_date": "2020-04-06",
     "label": "-",
     "embed": {
-      "type": "sporify",
+      "type": "spotify",
       "src": "https://open.spotify.com/embed/track/41d5IRDOIWQfYaFamRBRWQ"
     }
   },
@@ -83,7 +83,7 @@
     "release_date": "2023-08-31",
     "label": "Darknet Recordings",
     "embed": {
-      "type": "sporify",
+      "type": "spotify",
       "src": "https://open.spotify.com/embed/track/7o6u05azBYbByxr3n15ru1"
     }
   },
@@ -94,7 +94,7 @@
     "release_date": "2020-11-28",
     "label": "-",
     "embed": {
-      "type": "sporify",
+      "type": "spotify",
       "src": "https://open.spotify.com/embed/track/3b4F4E3d647fSm11l7pfV2"
     }
   }
