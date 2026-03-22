@@ -1,6 +1,19 @@
 [
   {
     "type": "appearance",
+    "title": "AMAKUCHI PARTY vol.23",
+    "date": "2026-03-28",
+    "location": "阿佐ヶ谷Drift",
+    "description": "甘口コレクティブ主催。DJとして出演。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/DVnuoYBCQbB/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
     "title": "WALLHACK x PARCO GAME CENTER Launch Party",
     "date": "2026-02-14",
     "location": "PARCO MUSEUM TOKYO （渋谷PARCO 4F）",
