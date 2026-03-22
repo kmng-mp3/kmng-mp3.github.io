@@ -14,6 +14,19 @@
   },
   {
     "type": "appearance",
+    "title": "DANIKI URARA Wedding Party",
+    "date": "2026-03-15",
+    "location": "名古屋 club JB's",
+    "description": "名古屋を拠点に活動しているDJであるDANIKIのウェディングパーティ。DJとして出演。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/DTiEFFVgbwE/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
     "title": "WALLHACK x PARCO GAME CENTER Launch Party",
     "date": "2026-02-14",
     "location": "PARCO MUSEUM TOKYO （渋谷PARCO 4F）",
