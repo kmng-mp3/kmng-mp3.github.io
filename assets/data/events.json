@@ -1,6 +1,19 @@
 [
   {
     "type": "appearance",
+    "title": "Evangelina おかえりパーティー",
+    "date": "2026-03-30",
+    "location": "池尻大橋SWIPE",
+    "description": "Evangelinaさんのマルチプルビザ取得祝いパーティ。DJとして出演。",
+    "media": [
+      {
+        "type": "x",
+        "url": "https://x.com/i/status/2023717994812371179"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
     "title": "AMAKUCHI PARTY vol.23",
     "date": "2026-03-28",
     "location": "阿佐ヶ谷Drift",
