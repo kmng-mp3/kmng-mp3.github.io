@@ -456,8 +456,9 @@ a {
     #card-email  { grid-column: auto; }
 
     /* Short-ratio cards gain height on narrow screens */
-    #card-note  { aspect-ratio: 4 / 3; }
-    #card-email { aspect-ratio: 1 / 1; }
+    #card-note        { aspect-ratio: 4 / 3; }
+    #card-plainwords  { aspect-ratio: 1 / 1; }
+    #card-email       { aspect-ratio: 1 / 1; }
 
     /* Scale down corner elements to avoid text overlap */
     .pkg-bg-num { font-size: 1.8rem; }
