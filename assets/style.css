@@ -315,12 +315,17 @@ a {
     font-style: italic;
 }
 
+#card-plainwords {
+    aspect-ratio: 7 / 3;
+    transform: rotate(-1.5deg);
+}
+
 #card-bandcamp {
     --pkg-surface: #1da0c3;
     --pkg-shadow: 0 1px 4px rgba(0,0,0,0.14), 0 6px 20px rgba(0,0,0,0.20);
     --pkg-muted: rgba(255,255,255,0.58);
     aspect-ratio: 1 / 1;
-    transform: rotate(-2deg);
+    transform: rotate(-3deg);
     color: #fff;
 }
 
@@ -338,7 +343,7 @@ a {
     --pkg-shadow: 0 1px 4px rgba(0,0,0,0.14), 0 6px 20px rgba(0,0,0,0.20);
     --pkg-muted: rgba(255,255,255,0.58);
     aspect-ratio: 1 / 1;
-    transform: rotate(-1.5deg);
+    transform: rotate(2.8deg);
     color: #fff;
 }
 
@@ -347,7 +352,7 @@ a {
     --pkg-shadow: 0 1px 4px rgba(0,0,0,0.14), 0 6px 20px rgba(0,0,0,0.20);
     --pkg-muted: rgba(255,255,255,0.58);
     aspect-ratio: 2 / 3;
-    transform: rotate(2.5deg);
+    transform: rotate(-0.4deg);
     color: #fff;
 }
 
@@ -367,7 +372,15 @@ a {
     border-color: rgba(255,255,255,0.42);
 }
 
+/* Plainwords is a white card — restore tag colour */
+#card-plainwords .pkg-tag {
+    color: var(--fg);
+    background: color-mix(in srgb, currentColor 14%, transparent);
+    border-color: currentColor;
+}
+
 /* Secondary/tertiary name sizes */
+#card-plainwords .pkg-name,
 #card-bandcamp .pkg-name,
 #card-soundcloud .pkg-name,
 #card-instagram .pkg-name,
@@ -379,17 +392,18 @@ a {
 
 /* ── Grid placement — 12 cols ───────────────────────────────────────────────
  *
- * Row 1: [01 Works: 1–7]              [col 8 gap]  [02 Events: 9–12]
- * Row 2: [03 Note: 1–8]              [col 9 gap]   [04 Bandcamp: 10–12]
- * Row 3: [col 1 gap] [05 Sound: 2–4] [gap] [06 Insta: 5–8] [gap] [07 X: 10–12]
- * Row 4:                [gap 1–3]    [08 Email: 4–8]
+ * Row 1: [01 Works: 1–7]           [col 8 gap]  [02 Events: 9–12]
+ * Row 2: [03 Note: 1–9]            [col 9 gap]  [04 Plainwords: 10–12]
+ * Row 3: [05 Bandcamp: 1–3] [06 Sound: 4–6] [07 Insta: 7–9] [08 X: 10–12]
+ * Row 4:              [gap 1–3]    [09 Email: 4–8]
  */
 #card-works      { grid-column: 1 / 8;  }
 #card-events     { grid-column: 9 / 13; }
-#card-note       { grid-column: 1 / 9;  }
-#card-bandcamp   { grid-column: 10 / 13; }
-#card-soundcloud { grid-column: 2 / 5;  }
-#card-instagram  { grid-column: 5 / 9;  }
+#card-note       { grid-column: 1 / 7;  }
+#card-plainwords { grid-column: 7 / 13; }
+#card-bandcamp   { grid-column: 1 / 4;  }
+#card-soundcloud { grid-column: 4 / 7;  }
+#card-instagram  { grid-column: 7 / 10; }
 #card-x          { grid-column: 10 / 13; }
 #card-email      { grid-column: 4 / 9;  }
 
@@ -404,10 +418,11 @@ a {
 
     #card-works      { grid-column: 1 / 5; }
     #card-events     { grid-column: 5 / 7; }
-    #card-note       { grid-column: 1 / 5; aspect-ratio: 5 / 3; }
-    #card-bandcamp   { grid-column: 5 / 7; }
-    #card-soundcloud { grid-column: 1 / 3; }
-    #card-instagram  { grid-column: 3 / 6; }
+    #card-note       { grid-column: 1 / 4; aspect-ratio: 5 / 3; }
+    #card-plainwords { grid-column: 4 / 7; }
+    #card-bandcamp   { grid-column: 1 / 3; }
+    #card-soundcloud { grid-column: 3 / 5; }
+    #card-instagram  { grid-column: 5 / 7; }
     #card-x          { grid-column: 1 / 3; }
     #card-email      { grid-column: 3 / 7; aspect-ratio: 4 / 3; }
 
@@ -433,6 +448,7 @@ a {
     #card-events,
     #card-note   { grid-column: 1 / -1; }
 
+    #card-plainwords,
     #card-bandcamp,
     #card-soundcloud,
     #card-instagram,
