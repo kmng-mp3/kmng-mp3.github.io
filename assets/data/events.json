@@ -1,6 +1,19 @@
 [
   {
     "type": "appearance",
+    "title": "甘口ミク 『début』 りりぱっ!",
+    "date": "2026-06-27",
+    "location": "Circus Tokyo",
+    "description": "甘口コレクティブよりリリースされたコンピレーションアルバム 甘口ミク『début』のリリースパーティ。trmsc.先輩とのb2bにて、DJとして出演。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/DYZEs_lJrAk/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
     "title": "AMAKUCHI PARTY vol.24",
     "date": "2026-05-23",
     "location": "阿佐ヶ谷Drift",
