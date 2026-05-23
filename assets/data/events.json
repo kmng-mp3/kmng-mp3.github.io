@@ -1,6 +1,19 @@
 [
   {
     "type": "appearance",
+    "title": "AMAKUCHI PARTY vol.24",
+    "date": "2026-05-23",
+    "location": "阿佐ヶ谷Drift",
+    "description": "甘口コレクティブ主催。DJとして出演。",
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/p/DYPHPZLCXxo/"
+      }
+    ]
+  },
+  {
+    "type": "appearance",
     "title": "Evangelina おかえりパーティー",
     "date": "2026-03-30",
     "location": "池尻大橋SWIPE",
